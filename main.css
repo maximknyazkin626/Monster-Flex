@@ -18,7 +18,7 @@ nav {
   position: relative;
   background-color: #878202;
   box-sizing: border-box;
-  background-image: url("pictures/logo.png");
+  background-image: url("https://i.postimg.cc/FFk3vFNZ/logo.png");
   background-repeat: no-repeat;
   background-size: 102px 32px;
   background-position: 10px 19px;
@@ -30,7 +30,7 @@ first-scr {
   display: flex;
   position: relative;
   background-color: #878202;
-  background-image: url("pictures/Background.jpg");
+  background-image: url("https://i.postimg.cc/sghNZCY9/Background.jpg");
   background-repeat: no-repeat;
   top: 0;
   left: 0;
